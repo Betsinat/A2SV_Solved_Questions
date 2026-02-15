@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
