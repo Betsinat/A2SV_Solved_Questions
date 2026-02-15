@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Divide and Conquer
 |  |
