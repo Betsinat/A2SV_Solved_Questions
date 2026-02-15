@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2671-frequency-tracker](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2671-frequency-tracker](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Randomized
 |  |
 | ------- |
