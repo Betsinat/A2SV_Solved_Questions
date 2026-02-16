@@ -1,9 +1,15 @@
 class Solution:
     def restoreString(self, s: str, indices: List[int]) -> str:
-        answer = ""
+        d  = {}
         for i in range(len(indices)):
-            answer += s[indices.index(i)]
-        return answer
+            d[indices[i]]=s[i]
+        ans = ""
+        for x in sorted(d):
+            ans += d.get(x)
+        return ans
+
+
+        
 
 
           
