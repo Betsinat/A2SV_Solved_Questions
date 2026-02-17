@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2671-frequency-tracker](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Sorting
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [2007-find-original-array-from-doubled-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
 |  |
 | ------- |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [2007-find-original-array-from-doubled-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 <!---LeetCode Topics End-->
