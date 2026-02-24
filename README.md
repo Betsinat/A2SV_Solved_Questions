@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0136-single-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0881-boats-to-save-people](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
