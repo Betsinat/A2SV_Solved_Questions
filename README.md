@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0811-subdomain-visit-count](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
@@ -153,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0763-partition-labels](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
