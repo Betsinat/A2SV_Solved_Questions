@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0811-subdomain-visit-count](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0609-find-duplicate-file-in-system](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0763-partition-labels](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -260,5 +262,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
