@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0303-range-sum-query-immutable](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
