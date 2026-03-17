@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1922-count-good-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Design
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
