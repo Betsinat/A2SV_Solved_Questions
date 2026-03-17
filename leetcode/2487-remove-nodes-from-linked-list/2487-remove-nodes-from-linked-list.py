@@ -1,18 +1,18 @@
 class Solution:
     def removeNodes(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        cur = head
         stack = []
-        while cur:
-            while stack and stack[-1].val < cur.val:
+        curr = head
+        while curr:
+            while stack and curr.val > stack[-1]:
                 stack.pop()
-            stack.append(cur)
-            cur = cur.next
-        
-        nxt = None
-        while stack:
-            cur = stack.pop()
-            cur.next = nxt
-            nxt = cur
-        
-        return cur
+            stack.append(curr.val)
+            curr = curr.next
+        dummy = ListNode()
+        curr = dummy
+        for n in stack:
+            curr.next = ListNode(n)
+            curr = curr.next
+        return dummy.next
+
+       
         
