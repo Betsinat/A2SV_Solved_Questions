@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
+| [0046-permutations](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Betsinat/A2SV_Solved_Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
